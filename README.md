@@ -1,3 +1,9 @@
 Learning go, fizzbuzz style.
 ====
-`go run src/fizzbuzz.go`
+
+
+##test ftw !
+`go test src/*.go`
+
+##Run
+`go run src/*.go`
